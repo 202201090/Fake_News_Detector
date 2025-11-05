@@ -3,7 +3,7 @@
 A project that uses NLP, Machine Learning, and Deep Learning to figure out if a news article is fake or real.
 
 ## 👥 Team
-- Nishil Patel (SID: 202201166)  
+- Denil Antala (SID: 202201090)  
 - Jainil Patel (SID: 202201030)  
 
 ## 🎯 What We Tried to Do
